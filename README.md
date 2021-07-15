@@ -1,2 +1,3 @@
-# muon_dockerfile
-Dockerfile for muon
+# muon Dockerfile
+
+This repository provides a template Dockerfile for muon.
